@@ -1,0 +1,2 @@
+
+    board = result(board, myAct
